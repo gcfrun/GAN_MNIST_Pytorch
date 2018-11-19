@@ -9,5 +9,4 @@
 #### MNIST真实的图片
 ![](https://upload-images.jianshu.io/upload_images/4688102-b5e909160185ce5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 网络结构
-![](https://upload-images.jianshu.io/upload_images/4688102-48226f36c8a599a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![](https://upload-images.jianshu.io/upload_images/4688102-447120d17a784a1a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/4688102-377bb02053690755.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
